@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install dependencies
+
+You run:
+
+`npm install` in `shakey`.
+
+
 ## How to Run
 
 You run:
